@@ -1,0 +1,30 @@
+body {
+    background-color: cadetblue;
+    background-size: cover;
+
+}
+
+
+.card{
+    position: relative;
+    left:420px;
+    font-size:25px;
+    border: 1px solid cadetblue
+    
+}
+.jumbotron{
+    background-color:purple;
+    height:120px;
+    color: white;
+
+}
+.lead{
+    text-align: center;
+    
+}
+.display-4{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
