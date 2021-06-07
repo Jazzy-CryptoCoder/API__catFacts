@@ -20,10 +20,7 @@ let text = document.getElementsByClassName("card-text")[0];
 text.innerText=catObject.text;//attaching the array text to the HTML
 }
 
-// //function timedRefresh(time){
-//     setTimeout(() =>{
-//         location.reload();
-//     }, time)
+
 
 
 

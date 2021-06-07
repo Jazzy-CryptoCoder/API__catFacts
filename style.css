@@ -3,28 +3,33 @@ body {
     background-size: cover;
 
 }
-
-
 .card{
     position: relative;
-    left:420px;
+    margin:auto;
     font-size:25px;
-    border: 1px solid cadetblue
-    
+    border: 1px solid cadetblue;  
+    max-width: 100%;
+    height:auto;
+
 }
 .jumbotron{
     background-color:purple;
     height:120px;
     color: white;
-
+    max-width: 100%;
+    height:auto
 }
 .lead{
-    text-align: center;
-    
+    text-align: center;   
 }
 .display-4{
     text-align: center;
 }
 .card-text{
     text-align: center;
+}
+
+img{
+    max-width: 100%;
+    height:auto;
 }
