@@ -5,19 +5,15 @@ body {
 }
 .card{
     position: relative;
-    margin:auto;
+    left:420px;
     font-size:25px;
     border: 1px solid cadetblue;  
-    max-width: 100%;
-    height:auto;
 
 }
 .jumbotron{
     background-color:purple;
     height:120px;
     color: white;
-    max-width: 100%;
-    height:auto
 }
 .lead{
     text-align: center;   
@@ -27,9 +23,4 @@ body {
 }
 .card-text{
     text-align: center;
-}
-
-img{
-    max-width: 100%;
-    height:auto;
 }
